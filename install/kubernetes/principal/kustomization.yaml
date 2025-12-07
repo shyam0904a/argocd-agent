@@ -15,5 +15,5 @@ resources:
 
 images:
 - name: argocd-agent
-  newName: ghcr.io/argoproj-labs/argocd-agent/argocd-agent
+  newName: ghcr.io/shyam0904a/argocd-agent
   newTag: latest
